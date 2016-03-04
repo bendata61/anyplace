@@ -15,7 +15,7 @@
  * All rights reserved.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy of
- * this software and associated documentation files (the “Software”), to deal in the
+ * this software and associated documentation files (the "Software"), to deal in the
  * Software without restriction, including without limitation the rights to use, copy,
  * modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
  * and to permit persons to whom the Software is furnished to do so, subject to the
@@ -24,7 +24,7 @@
  * The above copyright notice and this permission notice shall be included in all
  * copies or substantial portions of the Software.
  *
- * THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
  * OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
  * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
@@ -1098,36 +1098,30 @@ public class AnyplaceLoggerActivity extends SherlockFragmentActivity implements 
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
-		switch (item.getItemId()) {
-		case R.id.main_menu_upload_rsslog: {
+		int itemId = item.getItemId();
+		if (itemId == R.id.main_menu_upload_rsslog) {
 			uploadRSSLog();
 			return true;
-		}
-		case R.id.main_menu_loadmap: {
+		} else if (itemId == R.id.main_menu_loadmap) {
 			// start the activity where the user can select the building
 			if (mIsSamplingActive) {
 				Toast.makeText(this, "Invalid during logging.", Toast.LENGTH_LONG).show();
 				return true;
 			}
-
 			Location currentLocation = mLocationClient.getLastLocation();
-
 			Intent placeIntent = new Intent(this, SelectBuildingActivity.class);
 			Bundle b = new Bundle();
 			if (currentLocation != null) {
 				b.putString("coordinates_lat", String.valueOf(currentLocation.getLatitude()));
 				b.putString("coordinates_lon", String.valueOf(currentLocation.getLongitude()));
 			}
-
 			if (mCurrentBuilding == null) {
 				b.putSerializable("mode", SelectBuildingActivity.Mode.NEAREST);
 			}
-
 			placeIntent.putExtras(b);
 			startActivityForResult(placeIntent, SELECT_PLACE_ACTIVITY_RESULT);
 			return true;
-		}
-		case R.id.main_menu_clear_logging: {
+		} else if (itemId == R.id.main_menu_clear_logging) {
 			if (mCurrentBuilding == null)
 				Toast.makeText(getBaseContext(), "Load a map before tracking can be used!", Toast.LENGTH_SHORT).show();
 			else {
@@ -1138,23 +1132,16 @@ public class AnyplaceLoggerActivity extends SherlockFragmentActivity implements 
 					updateMarker(curLocation);
 			}
 			return true;
-		}
-
-		// Launch preferences
-		case R.id.main_menu_preferences: {
+		} else if (itemId == R.id.main_menu_preferences) {
 			Intent i = new Intent(this, LoggerPrefs.class);
 			startActivityForResult(i, PREFERENCES_ACTIVITY_RESULT);
 			return true;
-		}
-		case R.id.main_menu_about: {
+		} else if (itemId == R.id.main_menu_about) {
 			startActivity(new Intent(AnyplaceLoggerActivity.this, AnyplaceAboutActivity.class));
 			return true;
-		}
-
-		case R.id.main_menu_exit: {
+		} else if (itemId == R.id.main_menu_exit) {
 			this.finish();
 			System.gc();
-		}
 		}
 		return false;
 	}

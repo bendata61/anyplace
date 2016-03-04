@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/activity_logger.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/activity_logger.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/activity_unifiednav.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/activity_unifiednav.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/sherlock_spinner_item.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__screen_action_bar.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/start_screen_layout.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/start_screen_layout.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/activity_select_building.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/activity_select_building.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__search_dropdown_item_icons_2line.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__list_menu_item_checkbox.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__search_view.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__search_view.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_bar_tab_bar_view.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/main_choose_file_or_directory.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/main_choose_file_or_directory.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_mode_close_item.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_menu_item_layout.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__simple_dropdown_hint.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__list_menu_item_icon.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__popup_menu_item_layout.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/library/unspecified/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_menu_layout.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__list_menu_item_radio.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/info_window_help.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/info_window_help.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view_list_item.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__screen_simple.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__screen_simple.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/queried_pois_item_1_searchbox.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/queried_pois_item_1_searchbox.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_bar_title_item.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_bar_tab.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_bar_home.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/info_window.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/info_window.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/queried_pois_item_1_searchactivity.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/queried_pois_item_1_searchactivity.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__action_mode_bar.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__screen_simple_overlay_action_mode.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/res/layout/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/layout/activity_search_poi.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/layout/activity_search_poi.xml"
+    }
+]

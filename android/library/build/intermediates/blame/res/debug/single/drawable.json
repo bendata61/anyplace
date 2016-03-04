@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/res/drawable/common_signin_btn_text_light.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/assets"/></dataSet><dataSet config="debug"><source path="/Users/tam038/Documents/anyplace/anyplace/android/library/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/tam038/Documents/anyplace/anyplace/android/library/src/androidTest/assets"/></dataSet></merger>

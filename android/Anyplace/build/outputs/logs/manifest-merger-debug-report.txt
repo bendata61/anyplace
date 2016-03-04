@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:2:1-173:12
+	xmlns:android
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:3:5-32
+	android:versionName
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml
+		INJECTED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml
+		INJECTED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [android:actionbarsherlock:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:22:5-43
+MERGED from [android:library:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/library/unspecified/AndroidManifest.xml:5:5-43
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:22:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:22:5-43
+MERGED from [android:library:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/library/unspecified/AndroidManifest.xml:5:5-43
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:22:5-43
+	android:targetSdkVersion
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:8:9-35
+permission#com.dmsl.anyplace.permission.MAPS_RECEIVE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:12:9-65
+uses-permission#com.dmsl.anyplace.permission.MAPS_RECEIVE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:18:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:19:5-98
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:19:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:26:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:27:22-73
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:29:22-65
+uses-feature#0x00020000
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:31:5-33:35
+	android:required
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:33:9-32
+	android:glEsVersion
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:32:9-41
+application
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:35:5-171:19
+MERGED from [android:actionbarsherlock:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/AndroidManifest.xml:11:5-20
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:24:5-20
+MERGED from [android:library:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/library/unspecified/AndroidManifest.xml:8:5-20
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:24:5-20
+MERGED from [android:library:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/library/unspecified/AndroidManifest.xml:8:5-20
+MERGED from [android:google-play-services_lib:unspecified] /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/AndroidManifest.xml:24:5-20
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:39:9-41
+	android:allowBackup
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:38:9-55
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:40:9-51
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:36:9-55
+activity#com.dmsl.anyplace.StartActivity
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:45:13-77
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:43:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:49:27-74
+activity#com.dmsl.anyplace.AnyplaceAboutActivity
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:52:9-61:20
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:54:13-51
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:53:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:56:13-60:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:59:27-73
+activity#com.dmsl.anyplace.UnifiedNavigationActivity
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:64:9-106:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:67:13-45
+	android:icon
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:66:13-72
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:70:13-70
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:65:13-71
+	android:launchMode
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:68:13-44
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:76:13-88:29
+action#android.intent.action.VIEW
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:77:17-78:26
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:77:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:81:17-78
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:81:27-75
+data
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:83:17-87:24
+	android:host
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:84:21-55
+	android:pathPrefix
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:85:21-56
+	android:scheme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:86:21-42
+meta-data#android.app.default_searchable
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:95:13-97:62
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:96:17-62
+	android:value
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:97:17-59
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:99:13-101:29
+action#android.intent.action.SEARCH
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:100:17-71
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:100:25-68
+meta-data#android.app.searchable
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:103:13-105:54
+	android:resource
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:105:17-51
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:104:17-54
+activity#com.dmsl.anyplace.SearchPOIActivity
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:107:9-120:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:111:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:109:13-39
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:112:13-55
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:108:13-63
+	android:launchMode
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:110:13-43
+activity#com.dmsl.anyplace.SelectBuildingActivity
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:121:9-132:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:124:13-45
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:126:13-56
+	android:excludeFromRecents
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:123:13-46
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:122:13-68
+activity#com.dmsl.anyplace.logger.AnyplaceLoggerActivity
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:133:9-145:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:138:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:137:13-52
+	android:icon
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:136:13-72
+	android:configChanges
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:135:13-63
+	android:theme
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:139:13-50
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:134:13-75
+activity#com.dmsl.anyplace.AnyplacePrefs
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:146:9-151:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:149:13-56
+	android:icon
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:148:13-72
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:147:13-59
+activity#com.dmsl.anyplace.logger.LoggerPrefs
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:152:9-157:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:156:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:155:13-54
+	android:icon
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:154:13-72
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:153:13-64
+activity#com.dmsl.anyplace.AndroidFileBrowser
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:158:9-162:20
+	android:screenOrientation
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:160:13-54
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:159:13-64
+meta-data#com.google.android.gms.version
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:164:9-166:69
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:165:13-58
+	android:value
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:166:13-66
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:168:9-170:71
+	android:name
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:169:13-62
+	android:value
+		ADDED from /Users/tam038/Documents/anyplace/anyplace/android/Anyplace/AndroidManifest.xml:170:13-68

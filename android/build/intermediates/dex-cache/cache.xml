@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5788af4b9435c550df0b2e0b20f23cd75aa1b07a">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/android-support-v4_6785c70b411bad1f8e95af3c4d7d6e8467a1bc42.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/wpsapi.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="74f7cbf458da0b738d9baaf44b79bc91f907ab3e">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/wpsapi_e9ade73416b8411a2dec4cbc6a4d72a316d29eab.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/google-api-client-android-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="158f52b948d001e18b4281225b267ee5fdb54c36">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-api-client-android-1.17.0-rc_27e417d177bfa532f61b7432ae7d036ed4c8a562.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/actionbarsherlock/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3575295213fcbc201df29529a13fca01d2a51a94">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/android-actionbarsherlock-unspecified_c6217633a9dba034c1740d3b8ddfbe19b7d8802f.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/httpmime-4.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/httpmime-4.2.3_da423fc5115faf8a861ca63e7703b03a4e022f35.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/google-http-client-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8c3af35a458e5430f9d2f9bf9f12117673500ba0">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-http-client-1.17.0-rc_3d3494e034a3971b87cee5711f947bff2f7a2329.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/gson-2.2.4_cc82d0244c2455b19b878a6c2527df013be3bd9d.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/jackson-core-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.11_c60ee44e8bf0f4d325aa01d1c5be05b028ba0c50.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/Jama-1.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4e7b3b81770450a21b4295e27c2ccb802ab537e1">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/Jama-1.0.3_c0e06ecf603867a66d80212fd14f395c25f91189.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/protobuf-java-2.4.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0c589509ec6fd86d5d2fda37e07c08538235d3b9">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/protobuf-java-2.4.1_414afa0e4bddc2865fc10ce38982f30afd290f67.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/apache-mime4j-core-0.7.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/apache-mime4j-core-0.7.2_5a0ab4b1b184148ce3c2b232ea6329630eb9d444.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="40e804a1f1e3bd870d986640a3cc8c37b6f2ab70">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/android-support-v4_4a29ba48d65549be9dbd7f4db87c6aff186810b8.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/httpclient-4.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="37ced84d839a02fb856255eca85f0a4be95aa634">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/httpclient-4.2.3_db3372d33876319aba55d7fccc46564a39ae59c0.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e56d65c54c6ae4499d5d82752d1d1d35fe9f2cf0">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/android-google-play-services_lib-unspecified_321ac4fcd37260c48ee025cd90edd3a4810dea22.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="33b27a8d2a5b87e6eb6c60e87a5374ffbfeacc3a">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/android-support-v4_f272499656c2d1210200cbcf05ca4df94b02ab21.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/google-oauth-client-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1c9842ee2c931ac6865304025e20b68be65c427b">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-oauth-client-1.17.0-rc_ddfb80cc9c850ffe5107dbe558b80e6acbb8d80c.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/FlurryAnalytics-4.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="39e06eb3e9363f82173d8b1c8ebc2d763486dce5">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/FlurryAnalytics-4.2.0_fad25ccb540ac18ab6e281ff51ff9a0598d62ae8.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/MagLibrary.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8f5aff45a09e20ab15547bd11955d238e90ac424">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/MagLibrary_e1e85b8216823153fdaa568d7a1e6cb0e2f46081.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/google-play-services_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2b60c5f7afce248e222e26e2051d0f4a772b2a4e">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-play-services_e2d67a4d0f6ce11537223b15bce5fbba8f153577.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_be786a77eee0de91484b74e1a29c75afbcc341d6.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/google-http-client-android-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c6ef8e9d839d3aa873651214975c9ce4cbe1709b">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-http-client-android-1.17.0-rc_9acbea8bcca8ed37a95ee0b86ef552db95cfc8c9.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/WiLocateService.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ab19e9e6fb11da03ea2a0b3453724cee80ecdab8">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/WiLocateService_968862785b256ef10fa850f8dad8ead7dc746d46.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/exploded-aar/android/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="859d79897867e15529499b28d21348b3aa01ddbd">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/android-library-unspecified_48cc69ea66402b881b3514f1ef8c56917fc450b2.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/google-http-client-jackson-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="74f6954c1a401454a09d3b9465511571f183545d">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-http-client-jackson-1.17.0-rc_92a40ca8b6607e248af4dbaae0d07bb3b09970a5.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/jsr305-1.3.9_730f5057b594f3178313b96a95f269b19dd852b1.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/google-api-client-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d6030b729a2c0f277bbd65aecc53b0156123c1d7">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/google-api-client-1.17.0-rc_022b9081e5bae17e5e9c05231ed0008abcf0f4d8.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/guava-15.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/guava-15.0_70faf0c90d960d458e79cbd93d8fada95f19ad42.jar" />
+    </item>
+    <item
+        jar="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/libs/httpcore-4.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5e92ec56abe188b865642a14e1a037c1253fc42e">
+        <dex dex="/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/pre-dexed/debug/httpcore-4.2.3_e65b4bf92a89db8904bec7263fb0b1bf530b5b21.jar" />
+    </item>
+
+</items>

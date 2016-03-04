@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/xml/file_row.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/xml/file_row.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/xml/preferences_anyplace.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/xml/preferences_anyplace.xml"
+    },
+    {
+        "merged": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/build/intermediates/res/merged/debug/xml/preferences_logger.xml",
+        "source": "/Users/tam038/Documents/anyplace/anyplace/android/Anyplace/res/xml/preferences_logger.xml"
+    }
+]
